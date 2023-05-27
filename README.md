@@ -14,3 +14,8 @@ You can stop the video with space bar and choose the part of video you want to z
 Also you can go back 15sec ago with '[' and 15sec after with ']'
 
 You can then press 'a' to zoom out and 'd' to zoom in.
+
+
+
+https://github.com/EhanSohn/cctv_zoom_super_resolution/assets/127037304/14b20df7-86fc-4dac-8f94-a50bbd3c6470
+
