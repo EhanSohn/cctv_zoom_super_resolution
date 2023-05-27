@@ -11,4 +11,6 @@ This program will help you to upscale the image you have chosen through zooming 
 
 You can stop the video with space bar and choose the part of video you want to zoom with dragging your cursor.
 
+Also you can go back 15sec ago with '[' and 15sec after with ']'
+
 You can then press 'a' to zoom out and 'd' to zoom in.
