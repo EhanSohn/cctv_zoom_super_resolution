@@ -19,3 +19,8 @@ You can then press 'a' to zoom out and 'd' to zoom in.
 
 https://github.com/EhanSohn/cctv_zoom_super_resolution/assets/127037304/14b20df7-86fc-4dac-8f94-a50bbd3c6470
 
+### Without resolution
+<img width="600" alt="without_resolution" src="https://github.com/EhanSohn/cctv_zoom_super_resolution/assets/127037304/d4904830-010d-4f63-8196-39e267ed5b8d">
+
+### With resolution
+<img width="600" alt="with_resolution" src="https://github.com/EhanSohn/cctv_zoom_super_resolution/assets/127037304/75c9f2e0-e731-41d8-a608-9cdb7fa03f19">
